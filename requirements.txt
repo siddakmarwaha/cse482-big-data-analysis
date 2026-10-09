@@ -1,0 +1,9 @@
+jupyter
+matplotlib
+numpy
+pandas
+praw
+pymongo
+scikit-learn
+seaborn
+tweepy
